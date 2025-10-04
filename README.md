@@ -4,3 +4,6 @@ Welcome to the [help me do stuff repsoitory](https://github.com/SpacemanA2/Help-
 
 ## The one that says the newest version is not the newest version right now
 
+archive note(please read [this](https://github.com/SpacemanA2/SpacemanA2/blob/main/Welcome%20to%20SpacemanA2.md#help-me-do-stuff-has-been-abandon-for-years) link)
+=
+I arcived it on 4/10/2925(which is when I decided to do it)
